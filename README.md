@@ -1,9 +1,3 @@
-<!-- <p align="center">
-    <img alt="" src=https://img.shields.io/github/stars/huykaiserOwO?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
-    <img alt="" src=https://komarev.com/ghpvc/?username=huykaiserOwO&style=for-the-badge />
-</p> -->
-
-
 <h2 align="center">About Me </h2>
 
 ```python
@@ -61,7 +55,7 @@ class Attributes(HuyKaiser):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,nodejs,bash,react,androidstudio,java,kotlin,css,html,cloudflare,debian,dart,devto,discord,bots,discordjs,docker,flask,htmx,kali,jquery,linux,lua,mongodb,mysql,neovim,nestjs,nextjs,nginx,npm,perl,qt" />
+    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,nodejs,bash,react,androidstudio,java,kotlin,css,html,cloudflare,debian,dart,devto,discord,bots,discordjs,docker,flask,htmx,kali,jquery,linux,lua,mongodb,mysql,neovim,nestjs,nextjs,nginx,npm,perl,qt,ubuntu,ts,unity,windows,yarn" />
   </a>
 </p>
 
