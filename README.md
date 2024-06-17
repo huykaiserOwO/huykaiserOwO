@@ -63,7 +63,7 @@ class Attributes(HuyKaiser):
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=huykaiserOwO&theme=tokyonight&show_icons=true">
 </p>
 <p href="https://huykaiser.com/" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </p>
 <p href="https://huykaiser.com/" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
