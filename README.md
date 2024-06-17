@@ -54,15 +54,17 @@ class Attributes(HuyKaiser):
 <h2 align="center">Skills </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://huykaiser.com/">
     <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,nodejs,bash,react,androidstudio,java,kotlin,css,html,cloudflare,debian,dart,devto,discord,bots,discordjs,docker,flask,htmx,kali,jquery,linux,lua,mongodb,mysql,neovim,nestjs,nextjs,nginx,npm,perl,qt,ubuntu,ts,unity,windows,yarn,webpack" />
   </a>
 </p>
 
-<p href="https://discord.gg/onlp" align="center">
+<p href="https://huykaiser.com/" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=huykaiserOwO&theme=tokyonight&show_icons=true">
 </p>
-
-<p href="https://discord.gg/onlp" align="center">
+<p href="https://huykaiser.com/" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
+</p>
+<p href="https://huykaiser.com/" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
 </p>
