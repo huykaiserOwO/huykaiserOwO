@@ -60,7 +60,7 @@ class Attributes(HuyKaiser):
 </p>
 
 <p href="https://huykaiser.com/" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=huykaiserOwO&theme=tokyonight&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 </p>
 <p href="https://huykaiser.com/" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huykaiserOwO&layout=compact">
